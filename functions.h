@@ -12,4 +12,6 @@ void editPatient(void); // Edit patient record          TODO
 void manageSlot(void);  // Reserve or cancel a slot     TODO
 u8 scanChoice(void);    // Scanf admin choice           DONE
 
+void writeToFile(u16 id, s8 *name, u8 age, s8 *gender);
+
 #endif
