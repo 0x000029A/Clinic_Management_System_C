@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
+#include "std_types.h"
 #include "functions.h"
 #include "patient_class.h"
 
