@@ -1,3 +1,6 @@
+#include <stdio.h>
+#include "std_types.h"
+
 void modeSelect() {
     printf("*\tFor admin mode, Enter 1\t\t*\n"
            "*\tFor user mode, Enter 2\t\t*\n"
